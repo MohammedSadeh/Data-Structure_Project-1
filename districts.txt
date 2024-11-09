@@ -1,0 +1,9 @@
+Hebron|Dura|100000
+Hebron|Halhul|40000
+Jenin|Jaba|7000
+Jenin|Yabad|31000
+Jenin|Jenin|92000
+Ramallah|Birzeit|30000
+Ramallah|Berieh|70000
+Gaza|Jabalia|20000
+Gaza|Beit Hanoon|50000
